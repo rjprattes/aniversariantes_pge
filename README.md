@@ -28,8 +28,7 @@ A base de dados deste widget é uma tabela HTML oculta (`display: none`) localiz
 3. Insira ou remova linhas seguindo o modelo abaixo:
 
 ```html
-<tr data-mes="10">
-    <td>15</td> <td>Fulano da Silva</td> <td>GABINETE</td> </tr>
+<tr data-mes="10"><td>15</td><td>Fulano da Silva</td> <td>GABINETE</td></tr>
 
 ```
 
